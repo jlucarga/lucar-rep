@@ -1,0 +1,117 @@
+---
+title: "Warmup-01-Fall2018"
+author: "Jose Lucar"
+date: "8/30/2018"
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+
+#Game of Thromes
+
+>I never met my mother. My father wouldn't even tell me her name. I don't know if she's living or dead. I don't know if she's a noblewoman or a fisherman's wife or a whore...
+
+![Jon Snow](https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Profile-JonSnow-707.png/revision/latest?cb=20170828030553)
+
+Characteristics|
+---------------|------------
+Status         |**Alive**
+Date of Birth  |_281 AC_
+Origin         |_Tower of Joy_
+Allegiance     |**House Stark**
+               
+# Cooking Recipe
+
+## [Foolproof cacio e pepe][The result]
+
+- ### Ingredients:
+    * 8 ounces dried spaghetti or tonnarelli
+    * 4 ounces aged pecorino romano, finely  grated
+    *  lot of freshly ground black pepper  
+    
+- ### Kitchen Tools:
+    * Food Processor 
+    * Immersion Blender
+    * Tongs
+    * Bowl
+    * Strainer
+    
+### Steps:
+
+
+1. Bring a pot of well-salted water to boil. Cook pasta to one minute shy of package instructions and taste for your desired doneness, cooking a minute longer if needed. We are not cooking the pasta and sauce further together on the stove, so the bite it has now is about what your final dish will.
+
+2. While it’s cooking, combine all the pecorino (except a spoonful for garnish) and lots of freshly ground black pepper in a bowl. Add 1 tablespoon cold water and use an immersion blender to work it into a paste, adding additional cold water, 1 tablespoon at a time, only as needed. You want to form the mixture into a paste about the thickness of cream cheese or frosting. I use about 4 to 5 tablespoons total for this amount. Blend more than you think is needed; you want this paste as smooth as you can get it. You can do this same process in a food processor, even grinding the cheese in it instead of grating it first but it will require longer processing to get the rubble-like cheese smooth.
+
+3. **Before the pasta** is done, scoop out a cup of hot cooking water and set it aside. Drain the pasta very quickly in a colander (no need to shake every drop of water off) and immediately drop it, piping hot, into a large bowl. Add 3/4 of cheese-pepper paste in dollops and toss to combine. It’s going to be too thick to form a sauce but once it has begun to coat the noodles, pour in one small ladleful of pasta water and toss, toss, toss (a lot of movement helps here) to loosen the paste into a lightly creamy consistency that evenly coats the spaghetti strands. Taste and add more of the cheese-pepper paste to taste, or use it all. Add more pasta water as needed only to loosen
+
+_Finish with reserved pecorino and a few grinds of black pepper. Eat immediately._
+
+![Foolproof cacio e pepe][The result]
+
+[The result]:https://smittenkitchendotcom.files.wordpress.com/2018/09/foolproof-cacio-e-pepe.jpg?w=1500
+
+
+#### Is There a special season of the year for [it][The result]?
+ 
+Yes, you should not let the summer end until you try this [plate][The result]
+ 
+#### Are there variation of the recipe using another ingridients?
+
+You could add ham and a bit more of cheese if you would like it more like a [Fettuccine Alfredo][Fettuccine]
+
+[Fettuccine]:https://cdn3.tmbi.com/toh/GoogleImages/Fettuccine-Carbonara_exps175448_SD143205B01_28_2bC_RMS.jpg
+
+# Quadratic Equation
+ 
+$$ax^2 + bx + c = 0$$
+
+
+**In basic algebra**, the _quadratic formula_ is the solution of the _quadratic equation_ .Using the quadratic formula is the best way. The general quadratic equation is above. Here **x** represents an unknown, while **a**, **b**, and **c** are constants with **a** not equal to **0**.
+
+### Formula of The Roots of The Genaral Qaudratic Equation:
+
+$$ x = \frac{-b ± \sqrt{b^2−4ac}}{2a} $$
+
+### Derivation of the Solution:
+
+$$ax^2+bx+c=0$$
+$$4a^2x^2 +4abx+4ac=0$$
+$$4a^2x^2 + 4abx = −4ac$$
+$$4a^2x^2 +4abx+b^2 =b^2 −4ac$$
+$$(2ax+b)^2 =b^2 −4ac$$
+$$2ax+b=± \sqrt{b^2−4ac} $$
+$$ 2ax=−b± \sqrt{b^2−4ac}$$
+$$ x= \frac{ −b± \sqrt{b^2−4ac}}{2a}$$
+
+# Reflections
+
+- Mostly everything because we don't get to practice during class. For example : code chunks, difference between each code language, understanding the different environments, remembering the complicated names for a lot of what has to be executed in RMarkdown.
+
+In class, we've talked about that data analysis was like cooking. Organizing your data and coding were steps to cooking your data analysis. Before, I couldn't understand the cooking example made it in class, but after this warm-up, I have a sense of what it meant. 
+
+- The additional coding part because it was like opening a dictonary looking for new words; however, practicing the applications of these were time consuming.
+
+Also, understanding the actual questions like "finding a character for Game of Thrones" and import his image.
+
+- Yes, I feel more confidents of how to use it because I was able to knit what I was doing and see the results in pdf, html and word.
+
+- _No, I haven't used markdown before_.
+
+- I needed help. The kind of help I needed was from someone that never work in rmarkdown like me but with more patience./
+I was discussing with the person that helped what exactly I was asked to do and we were able to understand it after discussing each question. 
+
+- I needed about 6 days because sometimes I wasn't able to understand what I was asked to do. Also, it was frustrating to visit other websites like game of thrones or the cooking recipe because my screen would get messy between **Rmarkdown**, **safari**, **google**, **PDF**, **LaTex** and the **Knit window** opened all at the same time. 
+
+- I'm not sure if learning how to apply the code to the things I was asked to do, understanding the questions, or using the cheat sheet. 
+
+
+
+
+
+
+
+
+
+
